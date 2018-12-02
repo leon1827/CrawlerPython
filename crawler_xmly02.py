@@ -31,8 +31,3 @@ if __name__ == '__main__':
     for i in range(1,7):
         xima(i)
         time.sleep(5)
---------------------- 
-作者：乐亦亦乐 
-来源：CSDN 
-原文：https://blog.csdn.net/qq_41251963/article/details/82859498 
-版权声明：本文为博主原创文章，转载请附上博文链接！
